@@ -545,7 +545,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     - [Présentation de la matière](#programme) ;
     - [Installation](./pdf/Demarrage_iPad.pdf){:target="_blank"} et [prise en main](https://ec-morlaix.github.io/info/priseenmain/){:target="_blank"} de l'iPad ;
     
-    - **Visionner** "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique== :
+    - **Visionner** "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique ; **Transmettre** vos notes par [mail]== :
 
     <figure>
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
