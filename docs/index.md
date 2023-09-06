@@ -1,5 +1,5 @@
 
-[![PJ](images/undraw_team_re_0bfe.svg "# TEAM"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_mailbox_re_dvds.svg "team@ecmorlaix.fr"){: align=right width=10%}](mailto:team@ecmorlaix.fr){target=_blank}Ce site s'adresse aux secondes 2GT4 du lycée Notre Dame du Mur de MORLAIX pour l'enseignement des Sciences Numériques et Technologie.
+[![PJ](images/undraw_team_re_0bfe.svg "# TEAM"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_mailbox_re_dvds.svg "team@ecmorlaix.fr"){: align=right width=10%}](mailto:team@ecmorlaix.fr){target=_blank}Ce site s'adresse aux secondes 2GT5 du lycée Notre Dame du Mur de MORLAIX pour l'enseignement des Sciences Numériques et Technologie.
 
 ![image](images/logo_SNT.png){: .center width=40%}
 
@@ -83,7 +83,7 @@
     > Je tâcherai donc de vous accompagner, autant que possible, dans votre apprentissage de **l'informatique, la "vrai"** !
 
 
-<!-- 
+
 ## Cahier de texte
 
 ***
@@ -93,7 +93,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-
+<!-- 
 **A LIRE :**
 
 - [Travailler PYTHON en prépa ECG](https://www.prepaplus.tv/blog/50/Travailler-python-en-prepa-ECG){target=_blank}, [LA LICENCE MIASHS
@@ -533,15 +533,19 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
+-->
+
 ***
 
-### Le 06/09
+### Le 07/09
 
 === "CONTENU DE SÉANCE"
 
-    - Accueil -> ==**remplir** une fiche d'informations== ;
+    - Accueil ;
     - [Présentation de la matière](#programme) ;
-    - Visionnage de "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique== :
+    - [Installation](./pdf/Demarrage_iPad.pdf){:target="_blank"} et [prise en main](https://ec-morlaix.github.io/info/priseenmain/){:target="_blank"} de l'iPad ;
+    
+    - **Visionner** "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique== :
 
     <figure>
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -549,6 +553,10 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     > [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
 
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+
 === "TRAVAIL À FAIRE"
 
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"} -->
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+
