@@ -534,6 +534,25 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
 -->
+***
+
+### Le 12/09
+
+> de 10h à 12h en 10.21
+
+=== "CONTENU DE SÉANCE"
+
+    -  **Finir** la [prise en main](https://ec-morlaix.github.io/info/priseenmain/){:target="_blank"} de l'iPad et de l'E.N.T. ECA.M ;
+
+    - **Répondre** au QCM CHARTE INFORMATIQUE ET RÈGLEMENT INTÉRIEUR sur Ecole Directe ;
+    
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+
+=== "TRAVAIL À FAIRE"
+
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+
 
 ***
 
@@ -557,6 +576,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 === "TRAVAIL À FAIRE"
 
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+    - **Visionner entièrement** la [vidéo "Petite histoire de l'informatique"](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} -> ==**relever** les noms propres, dates clefs, mots et acronymes liés à l'informatique ; **Transmettre** vos notes par [mail]== :
+
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
 
