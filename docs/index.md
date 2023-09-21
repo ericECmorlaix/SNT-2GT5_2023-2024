@@ -536,6 +536,22 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 -->
 ***
 
+### Le 21/09
+
+=== "CONTENU DE SÉANCE"
+
+    -  Test de positionnement en Mathématiques : [portail DEPP](https://depp23-exhaustives.depp.taocloud.fr/){:target="_blank"} ;
+
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+
+=== "TRAVAIL À FAIRE"
+
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+
+
+***
+
 ### Le 12/09
 
 > de 10h à 12h en 10.21
