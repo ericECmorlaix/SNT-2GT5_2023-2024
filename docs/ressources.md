@@ -3,10 +3,10 @@
 - [E.N.T. ECA.M](https://ec-morlaix.github.io/info/){target=_blank}
 - [Les notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank}
 
-## Programmation
+## Tutoriels
 
-- [futurecoder.io](https://fr.futurecoder.io){target=_blank}
-
+- Python : [futurecoder.io](https://fr.futurecoder.io){target=_blank}
+- HTML/CSS : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank}
 
 
 

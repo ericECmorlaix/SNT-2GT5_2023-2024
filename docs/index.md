@@ -490,7 +490,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
        
     - [Introduction au Web](./Web/#introduction-au-web) -> ==Synthèse des prises de notes avec l'iPad, vérification de [compétences](./competences_SNT) quant à l'envoi de [mail]==
 
-    - Rejoindre la classe sur <https://fr.khanacademy.org/join/SZ58TC6N>{:target="_blank"} et commencer les activités de <https://fr.khanacademy.org/computing/computer-programming/html-css>{:target="_blank"}...
+    - Rejoindre la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} et commencer les activités de <https://fr.khanacademy.org/computing/computer-programming/html-css>{:target="_blank"}...
 
 
 === "TRAVAIL À FAIRE"
@@ -534,6 +534,27 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
 -->
+***
+
+### Le 28/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+    
+    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) avec l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+
+    - **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
+
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+
+
 ***
 
 ### Le 21/09

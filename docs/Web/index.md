@@ -4,10 +4,21 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 ![building_websites](../images/undraw_building_websites_i78t.svg){ .center width=50%}
 
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+
+## Initiation aux langages du Web : HTML/CSS
+
+**Rejoindre** la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) avec l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+
+> - Pensez à enrichir vos codes avec vos explications personnelles.
+> - A l'issue, transmettez votre notebook bilan personnel par [mail].
+
+![static_website](../images/undraw_static_website_re_x70h.svg){ .center width=50%}
 
 ## Introduction au web
 
-1. En équipe, regarder chacun une des vidéos suivantes et relever les mots clefs et acronymes associés au thème du web.
+- En équipe, **regarder** chacun une des vidéos suivantes et **relever** les mots clefs et acronymes associés au thème du web ;
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GqD6AiaRo3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,19 +28,17 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/68TNDVJKjp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Comparer vos rélevés avec ceux des autres membres de l'équipe et compléter votre liste.
+- **Comparer** vos rélevés avec ceux des autres membres de l'équipe et **compléter** votre liste d'apprentissage au format HTML ;
 
-3. Comparer vos rélevés avec ceux des autres équipes et compléter votre liste.
+- **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
+
+> - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
+> - Ajoutez les membres dude votre groupe en Copie Carbone du mail ;
+
+<!-- - Comparer vos rélevés avec ceux des autres équipes et compléter votre liste. -->
 
 
-## Initiation aux langages du Web : HTML/CSS
-
-Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle copier/coller vos codes dans des cellules MarkDown d'un Notebook Jupyter avec l'application Carnets afin d'y conserver une trace de votre travail...
-
-> - Pensez à enrichir vos codes avec vos explications personnelles.
-> - Transmettre votre notebook bilan personnel par mail.
-
-![static_website](../images/undraw_static_website_re_x70h.svg){ .center width=50%}
+<!-- 
 
 ## Publier un site Web :
 
@@ -104,7 +113,7 @@ Plus formellement, le déplacement de l'utilisateur est une marche aléatoire su
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x16lt53" width="100%" height="100%" allowfullscreen > </iframe> </div> -->
 
-- Clients / Serveurs + IP/MAC (Réseaux et Routage) [[Kathleen](https://kathleenmdn.github.io/mon_classeur/), [Perrine](https://perrinebrtn.github.io/mon-classeur/), [Louise](https://louiselegllx.github.io/Mon-site-Louise/), [Ambre](https://ambreguennec.github.io/mon-site-ambre/)]
+<!-- - Clients / Serveurs + IP/MAC (Réseaux et Routage) [[Kathleen](https://kathleenmdn.github.io/mon_classeur/), [Perrine](https://perrinebrtn.github.io/mon-classeur/), [Louise](https://louiselegllx.github.io/Mon-site-Louise/), [Ambre](https://ambreguennec.github.io/mon-site-ambre/)] -->
 
 <!-- Deux ordinateurs en réseau peuvent s'échanger des données. Dans la plupart des cas ces échanges ne sont pas "symétriques" : en effet un ordinateur A va souvent se contenter de demander des ressources (fichiers contenant du texte, photos, vidéos, sons...) à un ordinateur B. L'ordinateur B va lui se contenter de fournir des ressources à tous les ordinateurs qui lui en feront la demande. On dira alors que l'ordinateur A (celui qui demande des ressources) est un client alors que l'ordinateur B (celui qui fournit les ressources) sera qualifié de serveur. <br>
 
@@ -118,26 +127,26 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 ![Serveurs](./Images/baie-serveur.jpg)<br> -->
 
 
-- Web Statique (JavaScript, PyScript) [[Mathys H](https://mathiouphm.github.io/mon_classeur/), [Gabriel](https://fichierapk.github.io/mon_premier_site/)]
+<!-- - Web Statique (JavaScript, PyScript) [[Mathys H](https://mathiouphm.github.io/mon_classeur/), [Gabriel](https://fichierapk.github.io/mon_premier_site/)] -->
 
 <!-- 1. Donner un exemple de page web statique
 2. Quelle est l'utilité d'un web statique par rapport au dynamique ?
 3. Quel langages permettent de rendre une page web statique interactive ? -->
 
 
-- Web dynamique [[Laïs](https://lalaiham.github.io/mon_premier_site/), [Océane](https://babasqueo.github.io/mon_premier_sit/)]
+<!-- - Web dynamique [[Laïs](https://lalaiham.github.io/mon_premier_site/), [Océane](https://babasqueo.github.io/mon_premier_sit/)] -->
 
 <!-- 1. Donne un exemple de page web dynamique
 3. Quelle est l'utilité d'un web dynamique par rapport au statique ?
 4. Quel langages permettent de rendre la page web dynamique ?  -->
 
-- RGPD [[Louis](https://louisjouanet.github.io/mon_premier_site/), [Quentin](https://jincena.github.io/mon_premier_site/)]
+<!-- - RGPD [[Louis](https://louisjouanet.github.io/mon_premier_site/), [Quentin](https://jincena.github.io/mon_premier_site/)] -->
 <!-- 1. Quelle est la signification du sigle RGPD ?
 2. Lister quelques exemples d'utilisation.
 3. Quelles sont les conséquences sur internet ? -->
 
 
-- HTTP (HTTPS), TCP/IP (Protocole de transmissions) [[Keeyann](https://synyungboii.github.io/mon_premier_site/), [Alexandre](https://nbayoungfish.github.io/mon_site/), [Baptiste](https://carrotte1.github.io/Pingouin/)]
+<!-- - HTTP (HTTPS), TCP/IP (Protocole de transmissions) [[Keeyann](https://synyungboii.github.io/mon_premier_site/), [Alexandre](https://nbayoungfish.github.io/mon_site/), [Baptiste](https://carrotte1.github.io/Pingouin/)] -->
 
 <!-- Revenons sur l'adresse qui s'affiche dans la barre d'adresse d'un navigateur web et plus précisément sur le début de cette adresse c'est-à-dire le "http"
 Selon les cas cette adresse commencera par http ou https (nous verrons ce deuxième cas à la fin de cette activité).
