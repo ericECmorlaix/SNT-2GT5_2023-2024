@@ -91,6 +91,7 @@
 ![board](./images/undraw_scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+[notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
 
 ***
 <!-- 
@@ -470,7 +471,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 === "CONTENU DE SÉANCE"
     
-    - Présentation des [Notebook Jupyter](./notebook) et de l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/) => ==**créer** un nouveau bloc note pour conserver progressivement une trace de vos apprentissages HTML/CSS sur votre iPad.==       
+    - Présentation des [Notebook Jupyter] et de l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/) => ==**créer** un nouveau bloc note pour conserver progressivement une trace de vos apprentissages HTML/CSS sur votre iPad.==       
    
     - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} :
         - Pour le **_Défi : votre liste d'apprentissage_** => ==**lister** les noms propres, dates clefs, mots et acronymes liés à l'informatique que vous aviez relevé lors de visionnage de la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et/ou de celles d'[Introduction au web](./Web/#introduction-au-web).==
@@ -542,11 +543,11 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - Retour sur le T.A.F. ;
     
-    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) avec l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+    - **Rejoindre** la classe sur <https://fr.khanacademy.org/join/JUVZ78CT>{:target="_blank"} pour **suivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [notebook jupyter] avec l'application **Carnets** afin d'y **conserver** une trace de votre travail...
 
     - **Faire** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web) ;
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
 
 === "TRAVAIL À FAIRE"
 
@@ -566,7 +567,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     -  Test de positionnement en Mathématiques : [portail DEPP](https://depp23-exhaustives.depp.taocloud.fr/){:target="_blank"} ;
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
 
 === "TRAVAIL À FAIRE"
 
@@ -586,7 +587,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - **Répondre** au QCM CHARTE INFORMATIQUE ET RÈGLEMENT INTÉRIEUR sur Ecole Directe ;
     
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 === "TRAVAIL À FAIRE"
 
@@ -612,7 +613,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     > [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
 
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 === "TRAVAIL À FAIRE"
 
