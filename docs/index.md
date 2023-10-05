@@ -536,7 +536,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 -->
 ***
 
-### Le 28/09
+### Les 28/09 et 12/05
 
 === "CONTENU DE SÉANCE"
 
@@ -551,6 +551,9 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
+    > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
+    > - Ajoutez les membres dude votre groupe en Copie Carbone du mail ;
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
     - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
 
