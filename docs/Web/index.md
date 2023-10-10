@@ -33,17 +33,17 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 - **Transmettre** par [mail] un notebook jupyter contenant, au format HTML, la liste d'apprentissage complète commune à votre groupe ;
 
 > - Indiquez sur ce document les prénoms de chaque membre de votre équipe ;
-> - Ajoutez les membres dude votre groupe en Copie Carbone du mail ;
+> - Ajoutez les membres de votre groupe en Copie Carbone du mail ;
 
 <!-- - Comparer vos rélevés avec ceux des autres équipes et compléter votre liste. -->
 
 
-<!-- 
 
 ## Publier un site Web :
 
-- Publication en ligne [sur **GitHub**, avec **Visual Studio Code** via **GitPod**](../github)...
+- Publication en ligne [sur **GitHub**, avec **Visual Studio Code** via **CodeSpaces**](../github)...
 
+<!-- 
 ## Sujets à aborder en projet Web
 
 Par équipe, afin de présenter l'un des sujets suivants en répondant à minima aux questions associées, développer chacun un site contenant le même contenu (au moins une page avec un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte) mais présenté dans des styles personnels différents et avec des liens renvoyant vers un des autres sites de l'équipe :
