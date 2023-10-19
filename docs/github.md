@@ -67,7 +67,7 @@ Pour faire fonctionner l'[IDE](https://fr.wikipedia.org/wiki/Environnement_de_d%
 
 - Dans le code ainsi obtenu, **remplacer** `"en"` par `"fr"` et **donner** un titre à la page d'accueil de votre futur site ;
 - **Compléter** le `body` avec les balises de contenu que vous souhaitez voir s'afficher sur cette page ;
-- Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` (ou sur port pour afficher votre page dans un nouvel onglet de votre navigateur ;
+- Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` (ou sur port pour afficher votre page dans un nouvel onglet de votre navigateur) ;
 - **Compléter** le code HTML de votre page et **vérifier** le résultat obtenu en rafraichissant régulièrement l'affichage de cet onglet du navigateur ;
 
 ### Publier votre site sur GitHub

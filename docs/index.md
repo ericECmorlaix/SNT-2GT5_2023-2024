@@ -536,6 +536,24 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 19/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Publier un site web depuis [GitHub](./github), précisions complémentaires :
+        - Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` (ou sur port pour afficher votre page dans un nouvel onglet de votre navigateur) ;
+        - La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à **modifier**, **indexer**, **committer**, **pousser**...
+
+    - Choix des sujets du projet WEB ;
+   
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+        
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+
+***
 ### Le 12/10
 
 === "CONTENU DE SÉANCE"
