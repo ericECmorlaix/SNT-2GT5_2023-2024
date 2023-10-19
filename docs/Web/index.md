@@ -49,6 +49,7 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 Par équipe, afin de présenter l'un des sujets suivants en répondant à minima aux questions associées, développer chacun un site contenant le même contenu (au moins une page avec un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte) mais présenté dans des styles personnels différents et avec des liens renvoyant vers un des autres sites de l'équipe :
 
 ***
+
 ### Liste 1 (Maïa, Jeanne)
 <h4>Le language html</h4>
 <ul>
@@ -68,6 +69,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
     <li>saut de ligne: balise br, pas de balise de fin!!!</li>
 </ol>
 <h5><em> VOUS ETES PRETS !!!</em><h5>
+
 ***
 
 ### Liste 2 HATWL (Hugo, Antoine, Thomas, Walid, Liam)
@@ -93,6 +95,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
 <ul> 
 
 ***
+
 ### Liste 3 (Léanelle, Yüna, Emma, Elia)
 
 <ul>
@@ -112,6 +115,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
     </ul>
 
 ***
+
 ### Liste 4 (Elouan Mathieu Camille Aaron Enzo)
 
 <ul>
@@ -153,6 +157,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
     </ul>
 
 ***
+
 ### Liste 5 (Wilona,Chloé,Lola,Luc)
 
 > (manque un `</ol>`)
@@ -209,6 +214,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
             <li> 1972 --> Email </li>
             </ul>
           </ol>
+          
 ***
 
 ### Liste 6 (Lucie, Luna, Rose, Louane)
@@ -217,6 +223,7 @@ Par équipe, afin de présenter l'un des sujets suivants en répondant à minima
  <ul> <li> Web <li> reseau global <li> donnees <li> page web <li> navigateur <li> Moteur de recherche <li> URL <li> Adresse Ip <li> Serveur DNS <li> HTTP <li> HTML <li> Toile d’araignée <li>
 Connexion entre les ordinateurs <li>Le web est une partie de internet <li> Cloud service ( stockage)<li> Web ->interface <li> ARPA NET -> 1969 <li> Email -> 1972 <li> Web -> 1991 -> Tim bernees Lee <li> Site web <li> Hypertexte <li> Navigateur <li> CSS 
      </ul>
+     
 
 <!-- 
 - HTML (Markdown, LaTeX, ...) [[Margaux](https://margplou.github.io/mon_premier_sitee/), [Emma](https://mamaa0.github.io/mon_premier_site/), [Salomé](https://samole21.github.io/MonPremierSite/)]
