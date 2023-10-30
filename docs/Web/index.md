@@ -69,7 +69,7 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         
 
 
-???+ example "Equipe B ([Maïa](){target=_blank}, [Jeanne](){target=_blank})"
+???+ example "Equipe B ([Maïa](){target=_blank}, [Jeanne](){target=_blank}, [Mellie](){target=_blank}, [Ninon](){target=_blank})"
     !!! note "Sujet et notions"
         HTML, principales balises (h, p, br, body, title, head, ...), hypertexte, hyperlien, CSS, PNG (JPEG, JPG, SVG, GIF), XML...
     ???- question "Questions"
