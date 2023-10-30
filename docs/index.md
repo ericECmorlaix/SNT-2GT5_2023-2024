@@ -552,6 +552,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
     - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+    - **Faire** des recherches concernant le sujet de votre [projet web](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/Web/#projet-web){target="_blank"} ;
 
 ***
 ### Le 12/10
