@@ -536,6 +536,19 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 09/11 (0,5h)
+
+=== "CONTENU DE SÉANCE"
+
+    - **Développer** et **publier** un site présentant le sujet et les notions du [projet web](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/Web/#projet-web){target="_blank"} confié à votre équipe -> == **Transmettre** par [mail] un lien vers votre site personnel== ;
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+    - ==Se préparer pour une évaluation par QCM sur les notions du Web et de l'Internet étudiées ce trimestre, ainsi que les langages HTML/CSS et les bases de la programmation en Python== ;  
+
+***
 ### Le 19/10
 
 === "CONTENU DE SÉANCE"
