@@ -124,6 +124,26 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
 
 
 
+
+
+
+
+## Restitution des projets Web
+
+Transmettre par [mail] un lien vers le site de votre projet web pour l'intégrer ci-dessus...
+
+<!-- Maintenant que vous êtes devenus expert de votre sujet, il s'agit de l'expliquer à vos pairs en vous appuyant sur la présentation de votre site...  -->
+
+
+## Le bilan du thème
+
+Utiliser la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour valider le contenu de votre projet Web.
+
+Lire [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et retenir [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM...
+
+
+<!-- 
+
 <figure markdown>
   <figcaption markdown>
    _**SUITE EN CONSTRUCTION...**_
@@ -133,14 +153,10 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
 
 
 
-## Restitution des projets Web
-
-<!-- Maintenant que vous êtes devenus expert de votre sujet, il s'agit de l'expliquer à vos pairs en vous appuyant sur la présentation de votre site...  -->
 
 
-## Les questions bilan du thème
 
-<!-- A l'issue de toutes ces présentations portant sur le thème du Web, vous devriez êtres maintenant capable de répondre aux questions suivantes lors d'une évaluation prochaine...
+A l'issue de toutes ces présentations portant sur le thème du Web, vous devriez êtres maintenant capable de répondre aux questions suivantes lors d'une évaluation prochaine...
 
  lister les questions qui pourrraient être posées en évaluation 
 
