@@ -48,7 +48,7 @@ Le Web (toile) désigne un système donnant accès à un ensemble de données (p
 
 Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant à minima aux questions associées, développer chacun un site contenant le même contenu (au moins une page avec un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte) mais présenté dans des styles personnels différents et avec des liens renvoyant vers un des autres sites de l'équipe :
 
-???+ example "Equipe A ([Lucie](){target=_blank}, [Luna](){target=_blank}, [Rose](){target=_blank}, [Louane](){target=_blank}) "
+???+ example "Equipe A ([Lucie](https://lucievital.github.io/mon_premier_site/){target=_blank}, [Luna](https://lunaaaaluuuuuuu.github.io/Lunaaaaluuuuuuu/){target=_blank}, [Rose](){target=_blank}, [Louane](https://louguero.github.io/site_SNT_web/){target=_blank}) "
     !!! note "Sujet et notions"
         Web, site, www, w3c, surfer, toile, URL, HTTP/HTTPS, FTP/FTPS, index.html...
     
@@ -69,7 +69,7 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         
 
 
-???+ example "Equipe B ([Maïa](){target=_blank}, [Jeanne](){target=_blank}, [Mellie](){target=_blank}, [Ninon](){target=_blank})"
+???+ example "Equipe B ([Maïa](https://maiact.github.io/mon-premier-site-SNT/){target=_blank}, [Jeanne](https://jeannescotet.github.io/mon-premier-site-SNT/){target=_blank}, [Mellie](https://mellielrv.github.io/Mellielrv/){target=_blank}, [Ninon](ninonglz.github.io/ninonglz/){target=_blank})"
     !!! note "Sujet et notions"
         HTML, principales balises (h, p, br, body, title, head, ...), hypertexte, hyperlien, CSS, PNG (JPEG, JPG, SVG, GIF), XML...
     ???- question "Questions"
@@ -90,17 +90,17 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         - Quels sont les trois façons (niveaux, endroits) pour appliquer du CSS à une page HTML ?
         - Qu'est que le Javascript ?
 
-???+ example "Equipe C ([Hugo](){target=_blank}, [Antoine](){target=_blank}, [Thomas](){target=_blank}, [Walid](){target=_blank}, [Liam](){target=_blank}) **OU** Equipe D ([Elouan](){target=_blank}, [Mathieu](){target=_blank}, [Camille](){target=_blank}, [Aaron](){target=_blank}, [Enzo](){target=_blank})"
+???+ example "Equipe C ([Hugo](https://hugogallou.github.io/moteur-de-recherches/){target=_blank}, [Antoine](https://antoinescr.github.io/cookies/){target=_blank}, [Thomas](){target=_blank}, [Walid](https://walidsaid23.github.io/Referencement-web/){target=_blank}, [Liam](){target=_blank})"
     !!! note "Sujet et notions"
         navigateurs (firefox, edge, opera, chrome, ...), moteurs de recherche (google, yahoo, bing, ...), cookies (aspect fonctionnel), référencement web (page rank)...
     ???- question "Questions"
 
-???+ example "Equipe C ([Hugo](){target=_blank}, [Antoine](){target=_blank}, [Thomas](){target=_blank}, [Walid](){target=_blank}, [Liam](){target=_blank}) **OU** Equipe D ([Elouan](){target=_blank}, [Mathieu](){target=_blank}, [Camille](){target=_blank}, [Aaron](){target=_blank}, [Enzo](){target=_blank})"
+???+ example "Equipe D ([Elouan](){target=_blank}, [Mathieu](){target=_blank}, [Camille](){target=_blank}, [Aaron](){target=_blank}, [Enzo](){target=_blank})"
     !!! note "Sujet et notions"
         Cloud, Base de données, big data, SQL, statistique de fréquentation, cookie (aspect informationnel), RGPD...
     ???- question "Questions"
 
-???+ example "Equipe E ([Léanëlle](){target=_blank}, [Yüna](){target=_blank}, [Emma](){target=_blank}, [Elia](){target=_blank})"
+???+ example "Equipe E ([Léanëlle](https://lenaelle-crn22.github.io/Mon--premier--site-/){target=_blank}, [Yüna](https://yunasmn03.github.io/yunasmn03/){target=_blank}, [Emma](https://emma-08.github.io/SNT-doudounette/){target=_blank}, [Elia](https://eliab12t3.github.io/site-snt/){target=_blank})"
     !!! note "Sujet et notions"
         Internet, IP, DNS, Client/serveur, machines connectées (PC, Smartphone, Tablette, IOT)...
     ???- question "Questions"
