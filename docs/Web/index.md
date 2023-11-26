@@ -95,7 +95,7 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         navigateurs (firefox, edge, opera, chrome, ...), moteurs de recherche (google, yahoo, bing, ...), cookies (aspect fonctionnel), référencement web (page rank)...
     ???- question "Questions"
 
-???+ example "Equipe D ([Elouan](){target=_blank}, [Mathieu](){target=_blank}, [Camille](){target=_blank}, [Aaron](){target=_blank}, [Enzo](){target=_blank})"
+???+ example "Equipe D ([Elouan](https://loulouprise.github.io/My-first-site/){target=_blank}, [Mathieu](https://fourmigrand.github.io/Mon-premier-site/){target=_blank}, [Camille](){target=_blank}, [Aaron](https://aaronnr0407.github.io/SNT/){target=_blank}, [Enzo](){target=_blank})"
     !!! note "Sujet et notions"
         Cloud, Base de données, big data, SQL, statistique de fréquentation, cookie (aspect informationnel), RGPD...
     ???- question "Questions"
@@ -116,7 +116,7 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         - Quels langages permettent de rendre une page web dynamique ?
         - Quelle est l'utilité d'un web statique par rapport au dynamique et inversement ?
         
-???+ example "Equipe F ([Wilona](){target=_blank},[Chloé](){target=_blank},[Lola](){target=_blank},[Luc](){target=_blank})"
+???+ example "Equipe F ([Wilona](){target=_blank},[Chloé](https://clo-lb.github.io/clo-lb/){target=_blank},[Lola](https://lola-min.github.io/Lola-Min/){target=_blank},[Luc](https://lropartz.github.io/Lropartz/){target=_blank})"
     !!! note "Sujet et notions"
         Histoire du Web (et d'Internet), ARPANET, Tim Berner Lee, différents autres services aparentés (RS, Mail, Téléchargement, Streaming...)...
     ???- question "Questions"
