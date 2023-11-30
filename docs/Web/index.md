@@ -100,7 +100,7 @@ Par équipe, afin de présenter l'un des sujets (notions) suivants en répondant
         Cloud, Base de données, big data, SQL, statistique de fréquentation, cookie (aspect informationnel), RGPD...
     ???- question "Questions"
 
-???+ example "Equipe E ([Léanëlle](https://lenaelle-crn22.github.io/Mon--premier--site-/){target=_blank}, [Yüna](https://yunasmn03.github.io/yunasmn03/){target=_blank}, [Emma](https://emma-08.github.io/SNT-doudounette/){target=_blank}, [Elia](https://eliab12t3.github.io/site-snt/){target=_blank})"
+???+ example "Equipe E ([Lénaëlle](https://lenaelle-crn22.github.io/Mon--premier--site-/){target=_blank}, [Yuna](https://yunasmn03.github.io/yunasmn03/){target=_blank}, [Emma](https://emma-08.github.io/SNT-doudounette/){target=_blank}, [Elia](https://eliab12t3.github.io/site-snt/){target=_blank})"
     !!! note "Sujet et notions"
         Internet, IP, DNS, Client/serveur, machines connectées (PC, Smartphone, Tablette, IOT)...
     ???- question "Questions"
