@@ -541,7 +541,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 === "CONTENU DE SÉANCE"
 
-    - **Découvrir** les bases de la programmation en Python en résolvant les 8 niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
+    - **Découvrir** les bases de la programmation en Python en résolvant les 8 niveaux du jeu [Pyrates](https://py-rates.fr/){target="_blank"} ;
 
     ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
         
@@ -555,13 +555,13 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
         - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
         - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
 
-    - **Initialiser** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){:target="_blank"}) ;
-    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){:target="_blank"} pour mener sur PIX une campagne de cybersécurité avec le code `PSYUFX677` ;
+    - **Initialiser** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) ;
+    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour mener sur PIX une campagne de cybersécurité avec le code `PSYUFX677` ;
                
 === "TRAVAIL À FAIRE"
 
     - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
-
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 
 ***
 
