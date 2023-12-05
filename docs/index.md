@@ -536,6 +536,69 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+
+### Le 06/12
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** les bases de la programmation en Python en résolvant les 8 niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
+
+    ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
+        
+        Il faut donc systématiquement appliquer la procédure palliative suivante :
+
+        - **Cliquer** sur le bouton jaune `Sauvegarder` (le point rouge doit disparaitre) ;
+        - **Copier** le code d’identification `Id` ;
+        - **Actualiser** l’affichage de la page dans Safari ;
+        - **Coller** le code `Identifiant` et cliquer sur le bouton bleu `Je reprends` ;
+        - **Augmenter** la vitesse d’exécution ;
+        - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
+        - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
+
+    - **Initialiser** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){:target="_blank"}) ;
+    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){:target="_blank"} pour mener sur PIX une campagne de cybersécurité avec le code `PSYUFX677` ;
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
+
+
+***
+
+### Le 30/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'évaluation par QCM sur le thème du WEB ;
+
+    - Correction des sites du [projet web](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/Web/#projet-web){target="_blank"} ;
+
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+
+***
+
+### Le 23/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM sur le thème du WEB ;
+
+    - **Finaliser** votre site présentant le sujet et les notions du [projet web](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/Web/#projet-web){target="_blank"} confié à votre équipe -> ==**Transmettre** par [mail] un lien vers votre site personnel== ;
+
+    - **Utiliser** la ressource du [Livre Scolaire](https://www.lelivrescolaire.fr/page/30327051) pour **valider** le contenu de votre projet Web ;
+
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;    
+
+***
+
 ### Les 09 et 16/11 (0,5h + 1,5h)
 
 === "CONTENU DE SÉANCE"
