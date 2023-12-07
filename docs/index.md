@@ -536,8 +536,39 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 07/12
 
-### Le 06/12
+=== "CONTENU DE SÉANCE"
+
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;    
+    > ==**Rédiger** parallèlement un [notebook jupyter]{:target="_blank"} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... )==
+    
+    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
+    
+    ???- tip "Sur iPad, à la fin d’un niveau, le passage au niveau suivant ne se fait pas automatiquement !"
+        
+        Il faut donc systématiquement appliquer la procédure palliative suivante :
+
+        - **Cliquer** sur le bouton jaune `Sauvegarder` (le point rouge doit disparaitre) ;
+        - **Copier** le code d’identification `Id` ;
+        - **Actualiser** l’affichage de la page dans Safari ;
+        - **Coller** le code `Identifiant` et cliquer sur le bouton bleu `Je reprends` ;
+        - **Augmenter** la vitesse d’exécution ;
+        - **Cliquer** sur le bouton `Exécuter` pour rejouer le niveau ;
+        - Enfin **cliquer** sur le bouton vert `Niveau suivant`…
+
+    - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour finir sur PIX votre campagne de cybersécurité avec le code `PSYUFX677` et **poursuivre** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) en complétant notre [tableau blanc Cyber_5](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"} (*une page par équipe, la page `Cyber_5` sert pour la mise en commun*) ;
+    
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    - **Résoudre** tous les niveaux du jeu [Pyrates](https://py-rates.fr/){:target="_blank"} ;
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
+
+***
+
+### Le 05/12
 
 === "CONTENU DE SÉANCE"
 
