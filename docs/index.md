@@ -559,8 +559,8 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour finir sur PIX votre campagne de cybersécurité avec le code `PSYUFX677` et **poursuivre** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) en complétant notre [tableau blanc Cyber_5](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"} (*une page par équipe, la page `Cyber_5` sert pour la mise en commun*) ; 
 
-    [![](https://www.tldraw.com/s/v2_c_578wzRJ4m5eLFvRKAApiE?viewport=-770%2C-280%2C2808%2C1351&page=page%3Apage){.center width = 70%}](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"}
- 
+    <!-- [![](./images/cyber_5-V00.png){.center width = 80%}](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"}
+  -->
                
 === "TRAVAIL À FAIRE"
 
