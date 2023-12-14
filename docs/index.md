@@ -542,7 +542,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - Mise en commun des apprentissages de programmation en langage Python réalisés sur [https://fr.futurecoder.io](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} et [https://py-rates.fr](https://py-rates.fr/){:target="_blank"} ;
     
-    - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [n° f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [n°f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} (_Se connecter à Toutatice via educonnect_) ;
+    - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) _Se connecter à Toutatice via educonnect_ ;
 
     - **Se connecter** à [educonnect](https://educonnect.education.gouv.fr){target="_blank"} pour finir sur PIX votre campagne de cybersécurité avec le code `PSYUFX677` et **poursuivre** le projet [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){:target="_blank"} (cf : [Ressources ec-morlaix](https://ec-morlaix.github.io/info/cybersecu/){target="_blank"}) en complétant notre [tableau blanc Cyber_5](https://www.tldraw.com/r/lRdpWIlvEAmAI5kynOP_l?viewport=0%2C0%2C1536%2C739&page=page%3Apage){:target="_blank"} (*une page par équipe, la page `Cyber_5` sert pour la mise en commun*) ; 
 
