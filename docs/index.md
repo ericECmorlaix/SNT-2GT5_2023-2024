@@ -534,7 +534,24 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
     - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
+
 -->
+***
+### Le 21/12
+
+=== "CONTENU DE SÉANCE"
+
+    - **Se préparer** pour une évaluation pratique de programmation en Python en réalisant sur Capytale les activités des notebook [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) _Se connecter à Toutatice via educonnect_ ;
+
+    - **Commencer** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ;
+               
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ; 
+    
+    - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) ;
+
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 ***
 ### Le 14/12
 
