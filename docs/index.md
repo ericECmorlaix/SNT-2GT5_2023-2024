@@ -537,6 +537,25 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 11/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Rendre** votre devoir de vacances : [évaluation pratique en HTML/CSS | n°c860-2520743 /Capytale](https://capytale2.ac-paris.fr/web/c/c860-2520743){:target="_blank"} ;
+
+    - **Finir** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) ;
+
+    - Initiation du thème les [réseaux sociaux]() -> ==rédaction collective en MarkDown d'une [liste de réseaux sociaux](https://capytale2.ac-paris.fr/web/c/4c82-2709117){target="_blank"}== ;
+               
+=== "TRAVAIL À FAIRE"
+   
+    
+    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339) et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195) ;
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
+
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
+***
 ### Le 21/12
 
 === "CONTENU DE SÉANCE"
