@@ -24,6 +24,8 @@ Enumération collaborative de réseaux sociaux : [Capytale 4c82-2709117](https:/
 
 > Récupérer cette liste au format MarkDown dans votre coffre [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/0-Prise_en_main/){target="_blank"}...
 
+-->
+
 ## Recherches
 
 Pour un réseau social de la liste établie rechercher des données correspondantes aux items suivants :
@@ -43,9 +45,9 @@ Pour un réseau social de la liste établie rechercher des données correspondan
 - principaux influenceurs ;
 - modèle économique ;
 - concurrents ;
-- critiques, polémiques ; 
+- critiques, polémiques, ... ; 
 
-> Réaliser une note au format MarkDown pour recueillir les informations trouvées...
+> Compléter [ce notebook au format MarkDown](https://capytale2.ac-paris.fr/web/c/fd8e-2770891){target="_blank"} pour recueillir les informations trouvées...
  -->
 
 
