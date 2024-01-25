@@ -541,7 +541,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 === "CONTENU DE SÉANCE"
 
-    - **Tester** [vos combinaisons de spécialités](https://www.horizons21.fr/){target="_blank"} au regard "_des univers de formations et des métiers qui s'offrent à vous_" ;
+    - **Tester** [vos combinaisons de spécialités](https://www.horizons21.fr/){target=_blank} au regard "*des univers de formations et des métiers qui s'offrent à vous*" ;
     - **Réaliser** [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"} ; 
     - **Poursuivre** vos recherches sur les [réseaux sociaux](./RS/) ;
     - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;                              
