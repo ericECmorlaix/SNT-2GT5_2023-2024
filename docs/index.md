@@ -285,6 +285,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
         
 === "TRAVAIL À FAIRE"
 
+
     - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
     - Explorer les fonctionnalités du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour améliorer votre diaporama ;
     - Finir tous les niveaux de [https://py-rates.fr/](https://py-rates.fr/){target="_blank"}
@@ -536,6 +537,26 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 
 -->
+***
+### Le 08/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finaliser** vos recherches sur les [réseaux sociaux](./RS/) ;
+
+    - **Réaliser** [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"} ; 
+    
+    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+
+    - **Mesurer** vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `VXXNMS329` sur PIX](https://app.pix.fr/campagnes/VXXNMS329){target="_blank"} ;                              
+               
+=== "TRAVAIL À FAIRE"
+       
+    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
+
+    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
 ***
 ### Le 25/01
 

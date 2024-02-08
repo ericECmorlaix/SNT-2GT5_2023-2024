@@ -57,12 +57,12 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iwDh9C4q4og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-<!-- 
+
 ## Présentation
 
 ![social_dashboard](../images/undraw_social_thinking_re_y8cc.svg){align=left width=18%}![social_dashboard](../images/undraw_social_growth_re_tjy9.svg){ align=right width=22%}Préparer une présentation orale de votre réseau.
 
-> Réaliser un [diaporama support dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama){target="_blank"}, ajouter votre voix à cette présentation dans une capture vidéo de moins de 180 secondes puis partager la sur Stream dans Office365...
+> Réaliser [un diaporama à partir d'un Jupyter Notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb){target="_blank"}, ajouter votre voix à cette présentation dans une capture vidéo de moins de 180 secondes puis partager la sur Office365...
 <br>
 <br>
 <br>
@@ -71,11 +71,11 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 
 ## Mesure PIX
 
-Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `ZRSJAG289` sur PIX](https://app.pix.fr/campagnes/ZRSJAG289){target="_blank"} ;
+Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `VXXNMS329` sur PIX](https://app.pix.fr/campagnes/VXXNMS329){target="_blank"} ;
 
-> Relever dans une note d'Obsidian, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
+> Relever dans [votre notebook de recherches](https://capytale2.ac-paris.fr/web/c/fd8e-2770891){target="_blank"}, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
-
+<!-- 
 ## Connaissances associées
 
 ### Graphes et petit monde
@@ -191,6 +191,9 @@ Compléter la phrase suivante avec le terme de vocabulaire correct:
 
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UX7YQ6m2r_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
+<!-- 
 
 ## Dérives
 
