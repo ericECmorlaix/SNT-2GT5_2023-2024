@@ -75,12 +75,12 @@ Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le par
 
 > Relever dans [votre notebook de recherches](https://capytale2.ac-paris.fr/web/c/fd8e-2770891){target="_blank"}, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
-<!-- 
+ 
 ## Connaissances associées
 
 ### Graphes et petit monde
 
-???+ example "Application"
+???+ example "Illustration"
     
     ???- info "Données :"
     
@@ -97,25 +97,46 @@ Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le par
 
         Sur papier, placer les noms des huit élèves et relier entre eux chaque couple d'élèves qui se voit en dehors des cours.
         
-        Quels élèves voient beaucoup d'élèves en dehors des cours ?
-        ...
+        === "Question 1"
 
-        Lesquels en voient peu ?
-        ...
+            Quels élèves voient beaucoup d'élèves en dehors des cours ?
         
-        Pendant les vacances, je veux faire passer une information à ces huit élèves le plus rapidement possible.  
-        A quel élève dois-je m'adresser pour qu'il fasse passer l'information le plus vite possible ?
-        ...
+        === "Réponse"
+        
+            ...
+        
+        ***
 
+        === "Question 2"
+
+            Lesquels en voient peu ?
+        
+        === "Réponse"
+        
+            ...
+        
+        ***
+        
+        === "Question 3"
+
+            Pendant les vacances, je veux faire passer une information à ces huit élèves le plus rapidement possible.
+            
+            A quel élève dois-je m'adresser pour qu'il fasse passer l'information le plus vite possible ?
+                
+        === "Réponse"
+        
+            ...
+
+
+<!--
     ???- tip "Carte mentale et vue graphique"
 
         Télécharger puis décommpresser dans votre coffre d'Obsidian le fichier d'archive : [Application.zip](./Application.zip)
         > - Observer en [MindMap](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#mind-map-basique){target=_blank} le fichier "Classe_relations" ;
         > - Observer la [vue graphique](https://help.obsidian.md/Plugins/Graph+view){target=_blank} constituée par les fichiers du dossier "Graphe" en appliquant le filtre `path:/Graphe` ;
+-->
 
-
-#### Vocabulaire des graphes
-
+<!-- 
 ```md
 #flashcards
 
@@ -160,27 +181,35 @@ En quoi consiste l'expérience de Milgram...
 ?
 **...........................................**
 **...........................................**
-```
+``` -->
 
-A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**` dans le fichier `Flash-Les_Graphes.md` ;
+A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**` dans le fichier [FlashCards : Graphes et petit monde](https://capytale2.ac-paris.fr/web/c/a727-3007567){target="_blank"} ;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nn1mIqW9oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-???+ example "Application (suite)"
+???+ example "Illustration (suite)"
 
-    Pour le graphe d'application :
+    Pour le graphe exemple d'illustration :
 
-    - Calculer l’écartement de chacun de ses sommets ;
-    - Déterminer son centre, son diamètre et son rayon.
+    === "Question 4"
 
-### Petit monde :
+        Calculer l’écartement de chacun de ses sommets ;
+        
+    === "Réponse"
+        
+        ...
+        
+    ***
 
-Dans la vidéo ci-dessus, il est dit «Qu’en France, il ne faudrait que trois personnes pour relier tous nos concitoyens».
+    === "Question 5"
 
-Compléter la phrase suivante avec le terme de vocabulaire correct:
+        Déterminer son centre, son diamètre et son rayon.
+        
+    === "Réponse"
+        
+        ...
 
-`Si l’on modélise les relations de l’ensemble de la population française par un graphe, alors le **.........** du graphe est 3.`
 
 ### Vidéos de ressources complémentaires :
 
@@ -191,9 +220,7 @@ Compléter la phrase suivante avec le terme de vocabulaire correct:
 
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UX7YQ6m2r_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
-
-<!-- 
+ 
 
 ## Dérives
 
@@ -205,13 +232,13 @@ Compléter la phrase suivante avec le terme de vocabulaire correct:
 
 ### Lister d'autres dérives...
 
-- 
-- 
-- 
+    - 
+    - 
+    - 
 
 ## Bilan
 
-[Le cours](https://www.lelivrescolaire.fr/page/30675140){target="_blank"} et [l'essentiel](https://www.lelivrescolaire.fr/page/30674743){target="_blank"} à savoir... -->
+[Le cours](https://www.lelivrescolaire.fr/page/30675140){target="_blank"} et [l'essentiel](https://www.lelivrescolaire.fr/page/30674743){target="_blank"} à savoir...
 
 <!--
 

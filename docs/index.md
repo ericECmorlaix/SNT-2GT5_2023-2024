@@ -538,6 +538,26 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 15/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** les notions de [graphe et petit monde](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/RS/#graphes-et-petit-monde){target="_blank"} ;
+
+    - **Discuter** de potentielles [dérives](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/RS/#derives){target="_blank"} ;
+    
+    - **Finaliser** [votre présentation](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/RS/#presentation){target="_blank"} et **transmettre** par mail un lien vers votre capsule vidéo partagée dans Microsoft365 ; 
+    
+    - [**Réviser** en prévision d'une évaluation...](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/RS/#bilan){target="_blank"}.                             
+               
+=== "TRAVAIL À FAIRE"
+       
+    - **Rendre** les activités des notebook de programmation en Python [f9d1-2563339](https://capytale2.ac-paris.fr/web/c/f9d1-2563339){target="_blank"} et [f6da-2512195](https://capytale2.ac-paris.fr/web/c/f6da-2512195){target="_blank"} ;
+
+    - **Lire** le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
+
+    - **Aller** beaucoup plus loin en cybersécurité [l'introduction CISCO](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=fr-FR){target="_blank"}, [le MOOC de l'ANSSI](https://secnumacademie.gouv.fr/){target="_blank"} ;
+***
 ### Le 08/02
 
 === "CONTENU DE SÉANCE"
