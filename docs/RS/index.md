@@ -240,7 +240,7 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
 
 [Le cours](https://www.lelivrescolaire.fr/page/30675140){target="_blank"} et [l'essentiel](https://www.lelivrescolaire.fr/page/30674743){target="_blank"} à savoir...
 
-<!--
+
 
 ### Modèle économique
 
@@ -252,7 +252,6 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
 > Etudier les documents suivants
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSFSSMPRnRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- -->
 
 <!-- apprendre à générer de l’engagement organiquement ? -->
 
