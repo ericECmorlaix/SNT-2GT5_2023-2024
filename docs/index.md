@@ -538,6 +538,27 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 -->
 ***
+### Le 12/03
+
+=== "CONTENU DE SÉANCE"
+        
+    - **Réviser** les bases de programmation en Python sur le [notebook n° : 695e-3151577](https://capytale2.ac-paris.fr/web/c/695e-3151577){target="_blank"} ;
+
+    - **Dessiner** avec Python et le module Turtle sur le [notebook n° : 3937-3151553](https://capytale2.ac-paris.fr/web/c/3937-3151553){target="_blank"} ;
+
+    - **Créer** une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ; 
+
+    - **Faire** des animations graphiques avec Python et le module P5 sur le [notebook n° : dcc5-3151578](https://capytale2.ac-paris.fr/web/c/dcc5-3151578){target="_blank"} ;                              
+               
+=== "TRAVAIL À FAIRE"
+       
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.aeif.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/) ;{target="_blank"} ; 
+
+  ***
 ### Le 22/02
 
 === "CONTENU DE SÉANCE"
