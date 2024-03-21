@@ -536,9 +536,54 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
 
+Correction QCM RS et remédiation Graphes
+Correction DM HTML/CSS
+
 -->
 ***
-### Le 12/03
+
+!!! info "A LIRE :"
+
+    - [Travailler PYTHON en prépa ECG](https://www.prepaplus.tv/blog/50/Travailler-python-en-prepa-ECG){target=_blank} ;
+
+    - [LA LICENCE MIASHS Mathématiques et informatiques appliquées aux sciences humaines et sociales](https://www.onisep.fr/recherche?text=La+licence+MIASHS){target=_blank} ;
+
+    - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
+        source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>
+
+***
+
+## Le 28/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `tiw7phe9` pour l'activité n°1 ;
+        - `6igpd943` pour l'activité n°2 ; 
+        - `ivkp3wnn	` pour l'activité n°3 ;
+
+    - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les bases de programmation en Python sur le [notebook n° : 695e-3151577](https://capytale2.ac-paris.fr/web/c/695e-3151577){target="_blank"} ;
+
+    - **Finir** avec Python et le module Turtle le [notebook n° : 3937-3151553](https://capytale2.ac-paris.fr/web/c/3937-3151553){target="_blank"} ;
+    
+    - **Réviser** et **aller** plus loin avec Python et le module Turtle sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec le code `j67yw9yj` ;
+
+    - **Réviser** et **aller** plus loin avec les graphes sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec le code `74ibunnf` ;    
+
+    - **Découvrir** les animations graphiques avec Python et le module P5 sur le [notebook n° : dcc5-3151578](https://capytale2.ac-paris.fr/web/c/dcc5-3151578){target="_blank"} ;
+
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.aeif.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
+
+***
+### Les 12 et 14/03
 
 === "CONTENU DE SÉANCE"
         
@@ -556,7 +601,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
     
     - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
 
-    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/) ;{target="_blank"} ; 
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
 
   ***
 ### Le 22/02
