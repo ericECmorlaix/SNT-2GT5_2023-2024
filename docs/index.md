@@ -560,7 +560,7 @@ Correction DM HTML/CSS
     - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
         - `tiw7phe9` pour l'activité n°1 ;
         - `6igpd943` pour l'activité n°2 ; 
-        - `ivkp3wnn	` pour l'activité n°3 ;
+        - `pcj3ddrh` pour l'activité n°3 ;
 
     - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
