@@ -165,7 +165,7 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
     <center><img src="https://ericecmorlaix.github.io/img/Binaire-TourDeMagie.svg" alt="5 cartes" width=80%></center>
 
     <!-- <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center> -->
-
+<!-- 
     Comment fait-il ?
 
 ???- example "L'expérience pour compter comme un ordinateur"
