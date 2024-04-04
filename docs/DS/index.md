@@ -123,6 +123,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_capitales_regions= selectColumns(table_regions_et_villes_avec_tri_sur_capitale,("table1_capitale","table1_region","table2_departement","table2_nb_habitants"))
         displayTable(table_capitales_regions)
         ```
+ -->
 
 
 ???- abstract "Notions et vocabulaire à retenir"
@@ -149,6 +150,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
     - En croisant (**fusionnant**) deux **tables** ayant un **descripteur** commun (une **jointure**), on peut générer des informations nouvelles...
 
 
+<!-- 
 
 ## Notion de binaire
 
@@ -164,7 +166,8 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
 
     <center><img src="https://ericecmorlaix.github.io/img/Binaire-TourDeMagie.svg" alt="5 cartes" width=80%></center>
 
-    <!-- <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center> -->
+    <!-- <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center>
+ -->
 <!-- 
     Comment fait-il ?
 
@@ -264,14 +267,17 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         En vous répartissant le travail, décodez la phrase (codée en décimal) :
         `83|78|84|44|32|99|39|101|115|116|32|116|111|112|32|33`
     === "Réponse"
-
+ -->
+ 
 ## Mesure PIX
 
-**Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `XXMJHZ354` sur PIX](https://app.pix.fr/campagnes/XXMJHZ354){target="_blank"} ;
+**Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `YDJDCP844` sur PIX](https://app.pix.fr/campagnes/YDJDCP844){target="_blank"} ;
 
 > Lister dans un [mail], les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
 
 ## Bilan
 
-[Le cours sur www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/31098375){target="_blank"}... -->
+[Le cours sur www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/31098375){target="_blank"}... 
+
+

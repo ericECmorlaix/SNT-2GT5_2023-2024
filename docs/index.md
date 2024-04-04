@@ -553,6 +553,43 @@ Correction DM HTML/CSS
 
 ***
 
+
+## Le 04/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse des notions et vocabulaire à retenir concernant les [Données Structurées](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024/DS/){target=_blank} ;
+
+    - **Poursuivre** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `tiw7phe9` pour l'activité n°1 ;
+        - `6igpd943` pour l'activité n°2 ; 
+        - `pcj3ddrh` pour l'activité n°3 ;
+
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `YDJDCP844` sur PIX](https://app.pix.fr/campagnes/YDJDCP844){target="_blank"} ;
+    
+    - **Poursuivre** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
+
+=== "TRAVAIL À FAIRE"
+
+    - ==**Se préparer** pour une évaluation commune de SNT (Web HTML/CSS, Réseaux sociaux et Graphes, Données Structurées, Programation Python, Cybersécurité) pour le **mardi 21 mai**== ;
+    
+    - **Finir** les bases de programmation en Python sur le [notebook n° : 695e-3151577](https://capytale2.ac-paris.fr/web/c/695e-3151577){target="_blank"} ;
+
+    - **Finir** avec Python et le module Turtle le [notebook n° : 3937-3151553](https://capytale2.ac-paris.fr/web/c/3937-3151553){target="_blank"} ;
+    
+    - **Réviser** et **aller** plus loin avec Python et le module Turtle sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec le code `j67yw9yj` ;
+
+    - **Réviser** et **aller** plus loin avec les graphes sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec le code `74ibunnf` ;    
+
+    - **Découvrir** les animations graphiques avec Python et le module P5 sur le [notebook n° : dcc5-3151578](https://capytale2.ac-paris.fr/web/c/dcc5-3151578){target="_blank"} ;
+
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.aeif.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
+
+***
 ## Le 28/03
 
 === "CONTENU DE SÉANCE"
