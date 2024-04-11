@@ -22,6 +22,7 @@ Les structurer correctement garantit que l’on puisse les exploiter facilement 
 <!-- 
 OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank}
 
+-->
  
 ???- success "Solutions"
 
@@ -40,7 +41,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_grandes_villes = loadTable("grandes_villes")
         displayTableOnMap(table_grandes_villes,"ville","longitude","latitude")
         ```
-    
+<!--    
     === "n°3_3 - Les fleuves"
 
         ```python
