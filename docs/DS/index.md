@@ -19,10 +19,10 @@ Les structurer correctement garantit que l’on puisse les exploiter facilement 
 - `6igpd943` pour l'activité n°2 ; 
 - `pcj3ddrh` pour l'activité n°3 ;
 
-<!-- 
+ 
 OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank}
 
--->
+
  
 ???- success "Solutions"
 
@@ -151,7 +151,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
     - En croisant (**fusionnant**) deux **tables** ayant un **descripteur** commun (une **jointure**), on peut générer des informations nouvelles...
 
 
-<!-- 
+
 
 ## Notion de binaire
 
@@ -168,8 +168,8 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
     <center><img src="https://ericecmorlaix.github.io/img/Binaire-TourDeMagie.svg" alt="5 cartes" width=80%></center>
 
     <!-- <center> Source : <a href="https://culturemath.ens.fr/thematiques/college/tour-de-magie-binaire">Cliquez ici pour trouver une explication, si besoin..."</a></center>
- -->
-<!-- 
+
+
     Comment fait-il ?
 
 ???- example "L'expérience pour compter comme un ordinateur"
