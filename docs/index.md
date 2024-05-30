@@ -551,6 +551,36 @@ Correction DM HTML/CSS
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
         source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>
 ***
+***
+## Le 30/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+
+        - [**entrainer** une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank} ;    
+    
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcation>Tutoriel Entraînement IA</figcation>
+    </figure>
+    </center>
+
+    - **Poursuivre** les activités de [découverte de la Photographie Numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target="_blank"} ;
+     
+    - **Finir** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Découvrir** les animations graphiques avec Python et le module P5 sur le [notebook n° : dcc5-3151578](https://capytale2.ac-paris.fr/web/c/dcc5-3151578){target="_blank"} ;
+
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.aeif.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
+
+***
 ## Le 23/05
 
 === "CONTENU DE SÉANCE"
