@@ -552,6 +552,70 @@ Correction DM HTML/CSS
         source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>
 ***
 ***
+## Le 06/06
+
+=== "CONTENU DE SÉANCE"
+
+    - **Se questionner** et **découvrir** l'Intelligence Artificielle avec Guillaume et la Hotline  :
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mkfXdzA6B_c?si=sMKHM1SULVs5CKRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>Qui a peur de l’IA ? Se questionner #1</figcation>
+    </figure>
+    </center>
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/yQLmgw3rClM?si=coIFHrHxcEX_cm5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>C’est quoi l’intelligence artificielle ? Découvrir #1</figcation>
+    </figure>
+    </center>
+
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/E_3vJwb-wE0?si=Xkk1LSV1vs-pf3-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>De l’IA à toutes les sauces ? Se questionner #2</figcation>
+    </figure>
+    </center>
+
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/bLvabh0asQU?si=vQjsj3EFohXAfWFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>Du machine learning et des données. Découvrir #2</figcation>
+    </figure>
+    </center>
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rEXOzNGAWFQ?si=MHI9FFIcgNkajN-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>Les humains sont-ils bons pour la casse ? Se questionner #3</figcation>
+    </figure>
+    </center>
+
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/4D8XReLj5SQ?si=MFPY2qNthNln061Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>L'intelligence artificielle à notre service ? Découvrir #3</figcation>
+    </figure>
+    </center>
+
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+
+        - [**interagir** avec différents modèles d'IA textuelles](https://fr.vittascience.com/ia/text.php){target=_blank} ;    
+    
+    
+    - **Reproduire** l'expérience :
+
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/q8-LhLKc8wY?si=kaVzTn_vQ3YFJYN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>Intelligence artificielle-une machine qui apprend à jouer</figcation>
+    </figure>
+    </center>
+              
+
+=== "TRAVAIL À FAIRE"
+
+    - [Découvrir l'algorithmique à l'aide d'énigmes](https://nreveret.forge.aeif.fr/enigmes/){target="_blank"} ;
+    
+    - [S'initier à la programmation en Python](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ; 
+
+    - [Maitriser des algorithmes et la programmation en Python](https://e-nsi.gitlab.io/pratique/){target="_blank"} ; 
+
+***
 ## Le 30/05
 
 === "CONTENU DE SÉANCE"
@@ -566,8 +630,17 @@ Correction DM HTML/CSS
     </figure>
     </center>
 
+    - **Comprendre** le fonctionnement d'IA génératives d'images :
+
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/tdelUss-5hY?si=uttHmOGh89SM-Ijj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcation>Comment ces IA inventent-elles des images ?</figcation>
+    </figure>
+    </center>
+
     - **Poursuivre** les activités de [découverte de la Photographie Numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target="_blank"} ;
      
+  
     - **Finir** la création d'une image numérique avec Python et le module PIL sur le [notebook n° : 3131-3151844](https://capytale2.ac-paris.fr/web/c/3131-3151844){target="_blank"} ;  
 
 === "TRAVAIL À FAIRE"
