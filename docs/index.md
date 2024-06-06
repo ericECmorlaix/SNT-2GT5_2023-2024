@@ -633,19 +633,21 @@ Correction DM HTML/CSS
 
         - [**entrainer** une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank} ;    
     
-    <center>
-    <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <figcation>Tutoriel Entraînement IA</figcation>
-    </figure>
-    </center>
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <figcaption>Tutoriel Entraînement IA</figcaption>
+        </figure>
+        </center>
 
     - **Comprendre** le fonctionnement d'IA génératives d'images :
 
-    <center>
-    <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/tdelUss-5hY?si=uttHmOGh89SM-Ijj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcation>Comment ces IA inventent-elles des images ?</figcation>
-    </figure>
-    </center>
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tdelUss-5hY?si=uttHmOGh89SM-Ijj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Comment ces IA inventent-elles des images ?</figcaption>
+        </figure>
+        </center>
 
     - **Poursuivre** les activités de [découverte de la Photographie Numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target="_blank"} ;
      
